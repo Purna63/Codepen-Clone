@@ -1,0 +1,22 @@
+.CodeMirror {
+  height: 340px !important;
+  width: 490px;
+  color: #fff;
+}
+
+.CodeMirror-gutters {
+  background: #1d1e22 !important;
+}
+
+.CodeMirror-scroll {
+  background: #1d1e22;
+}
+
+.txt {
+  font-size: 32px;
+  color: #ffffff;
+  font-weight: bold;
+  font-style: oblique;
+  text-transform: capitalize;
+  margin: 495px;
+}
